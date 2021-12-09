@@ -10,8 +10,6 @@ Desafio 05 concluido da comunidade Codelândia
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="view.png" alt="exemplo imagem">
-
 
 > Preview : https://chihiro-page-3uobi6933-viniciusmorais10.vercel.app/
 
